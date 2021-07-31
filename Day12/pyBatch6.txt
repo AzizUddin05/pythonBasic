@@ -1,0 +1,8 @@
+Hello World !This is our new text fileAnd this is another lineThis is write mode
+Hello World !
+This is our new text file
+And this is another line
+This is write mode
+
+We meet again
+Python is awesome
